@@ -4,4 +4,4 @@ fun main(args: Array<String>) {
             i -> (i * i).toString()
     }
     asc.forEach { println(it) }
-} 
+}
