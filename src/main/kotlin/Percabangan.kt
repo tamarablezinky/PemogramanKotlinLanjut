@@ -32,4 +32,4 @@ fun main(args: Array<String>) {
     if (intNumber > 5)
         println("The number you entered is greater than 5!")
     println("Thanks for the input!")
-} 
+}
