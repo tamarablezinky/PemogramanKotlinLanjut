@@ -26,4 +26,4 @@ fun main(args: Array<String>) {
         println("Invalid choice")
     }
     println("Thank you for using our calculator.")
-} 
+}
