@@ -14,4 +14,4 @@ fun main(args: Array<String>) {
         y = y + 10
         println("I am inside Do block---" +y)
     } while(y <= 50)
-} 
+}
