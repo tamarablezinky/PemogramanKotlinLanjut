@@ -7,7 +7,7 @@ fun main(args: Array<String>) {
     mylambda(v)
 
     //Inline Function
-    myFun(v,mylambda) //passing lambda as a parameter of another function
+    myFun(v,mylambda) 
 }
 
 fun MyFunction(x: String): String {
@@ -15,7 +15,7 @@ fun MyFunction(x: String): String {
     return (c+x)
 }
 
-fun myFun(a:String, action:(String)->Unit) { //passing lambda
+fun myFun(a:String, action:(String)->Unit) {
     print("\nHeyyy!!!")
-    action(a)// call to lambda function
+    action(a)
 }
