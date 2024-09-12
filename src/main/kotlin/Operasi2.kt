@@ -6,4 +6,4 @@ fun main(args: Array<String>) {
 
     maybeNumber = null
     println(maybeNumber!! * 2)
-} 
+}
