@@ -5,5 +5,5 @@ fun main(args: Array<String>) {
     println(maybeNumber!! * 2)
 
     maybeNumber = null
-    println(maybeNumber!! * 2)
+    //println(maybeNumber!! * 2)/
 }
